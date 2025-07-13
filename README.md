@@ -2,6 +2,17 @@
 
 ## This project showcases a comprehensive sales data analysis and dashboard using Microsoft Excel. It includes key performance indicators (KPIs), trend charts, and region-based insights, designed to help decision-makers quickly assess sales performance across time, products, and locations.
 
+# 📚 Table of Contents
+
+1. [Overview](#-overview)
+2. [Tools & Technologies Used](#️-tools--technologies-used)
+3. [Data Cleaning](#data-cleaning)
+4. [Exploratory Data Analysis](#exploratory-data-analysis)
+5. [Data Analysis](#data-analysis)
+6. [Key Findings](#-key-findings)
+7. [Recommendations](#-recommendations)
+
+
 ### 🔍 Overview
 
 The dashboard includes:
@@ -66,53 +77,13 @@ Aggregated sales by Country, State, and City.
 Designed KPI Cards for quick references
 
 ## 📈 Key Findings
-
-### 💰 Overall Performance
-- **Total Sales**: $13.7M  
-- **Total Units Sold**: 17,609  
-
-### 🏆 Top 5 Products by Revenue
-| Product           | Revenue     |
-|------------------|-------------|
-| Z Fold 6         | $1,507,359  |
-| Galaxy S25 Ultra | $1,277,620  |
-| Pixel 9 Pro      | $1,252,761  |
-| OnePlus 12 Pro   | $1,043,783  |
-| OnePlus 11R      | $948,013    |
-
-### 🌍 Sales by Country
-- **India**: $6.59M  
-- **Turkey**: $5.18M  
-- **Bangladesh**: $1.59M  
-- **Pakistan**: $382K  
-
-### 🏷️ Sales by Brand
-- **Apple**: $3.45M  
-- **Samsung**: $3.28M  
-- **OnePlus**: $2.77M  
-- **Google**: $2.54M  
-- **Xiaomi**: $1.71M  
-
-### 🛒 Sales Channels
-- **Online**: 203  
-- **Retail Store**: 95  
-- **Partner**: 51  
-
-### 💳 Payment Types
-- **Cash**: 92  
-- **Credit Card**: 91  
-- **EMI**: 88  
-- **UPI**: 78  
-
-### 👥 Sales by Age Category
-| Age Group | Sales     |
-|-----------|-----------|
-| 40–49     | $3.68M    |
-| 21–29     | $3.63M    |
-| 31–39     | $2.78M    |
-| 50–59     | $1.95M    |
-| 60–69     | $1.71M    |
-
+1. **Total sales reached $13.7 million** from 17,609 units sold.
+2. **Top-selling devices** include Z Fold 6, Galaxy S25 Ultra, and Pixel 9 Pro.
+3. **India generated the highest revenue** ($6.59M), followed by Turkey and Bangladesh.
+4. **Apple and Samsung were the best-performing brands** in terms of total sales.
+5. **Online sales channels dominated** the transactions, accounting for over 58%.
+6. **Most common payment methods** were Cash, Credit Card, and EMI.
+7. **Customers aged 21–49 contributed over 70%** of total revenue.
 ---
 
 ## ✅ Recommendations
